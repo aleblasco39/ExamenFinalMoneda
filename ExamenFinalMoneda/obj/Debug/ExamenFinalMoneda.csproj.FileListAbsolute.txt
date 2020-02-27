@@ -1,0 +1,2 @@
+C:\Users\Capitole-Consulting\source\repos\ExamenFinalMoneda\ExamenFinalMoneda\obj\Debug\ExamenFinalMoneda.csprojAssemblyReference.cache
+C:\Users\Capitole-Consulting\source\repos\ExamenFinalMoneda\ExamenFinalMoneda\obj\Debug\ExamenFinalMoneda.csproj.CoreCompileInputs.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenFinalMoneda", "ExamenFinalMoneda\ExamenFinalMoneda.csproj", "{00D70B81-C0FC-4FD7-BF3D-965C159646AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenFinalMoneda.Tests", "ExamenFinalMoneda.Tests\ExamenFinalMoneda.Tests.csproj", "{6B176A97-FDB0-43ED-AA53-153E4471B648}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00D70B81-C0FC-4FD7-BF3D-965C159646AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D70B81-C0FC-4FD7-BF3D-965C159646AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D70B81-C0FC-4FD7-BF3D-965C159646AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D70B81-C0FC-4FD7-BF3D-965C159646AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B176A97-FDB0-43ED-AA53-153E4471B648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B176A97-FDB0-43ED-AA53-153E4471B648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B176A97-FDB0-43ED-AA53-153E4471B648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B176A97-FDB0-43ED-AA53-153E4471B648}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E0E41A6-E8D7-4AE7-B368-62BDEFE663BA}
+	EndGlobalSection
+EndGlobal
